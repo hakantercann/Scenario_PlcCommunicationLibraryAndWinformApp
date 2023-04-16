@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Scenario1_PcToTwoPlcViaModbus.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="plc1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1;false;null;null;none;</Value>
+    </Setting>
+    <Setting Name="plc2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2;false;null;null;none;</Value>
+    </Setting>
+    <Setting Name="sql" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3;false;null;null;null;</Value>
+    </Setting>
+    <Setting Name="plc3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4;false;null;null;none;</Value>
+    </Setting>
+    <Setting Name="plc4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5;false;null;null;none;</Value>
+    </Setting>
+    <Setting Name="plc5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6;false;null;null;none;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
